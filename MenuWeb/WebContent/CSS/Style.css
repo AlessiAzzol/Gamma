@@ -1,0 +1,36 @@
+@charset "ISO-8859-1";
+
+* {
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+body {
+	background-color: #F0F0F0;
+}
+
+table {
+	width: 800px;
+	height: 350px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 150px;
+	background-color: white;
+	border-radius: 20px;
+	text-align: left;
+}
+
+th {
+	width: 50%;
+	
+}
+
+.image {
+	background:
+		url("https://media.istockphoto.com/vectors/seamless-pattern-bookshelves-vector-id905271678?k=6&m=905271678&s=612x612&w=0&h=TeGnMk9-Ubhi-Vuek8CAlpXfciHb4BeqxzZe8GvyZh0=");
+	background-size: cover;
+	border-radius: 20px 0 0 20px;
+}
+
+.options {
+	padding: 0 40px;
+}
